@@ -1,0 +1,13 @@
+C:\Users\nieme\Documents\CodingDojo\CSharpStack2022\11.2\classesdemo\obj\Debug\netcoreapp3.1\classesdemo.csprojAssemblyReference.cache
+C:\Users\nieme\Documents\CodingDojo\CSharpStack2022\11.2\classesdemo\obj\Debug\netcoreapp3.1\classesdemo.AssemblyInfoInputs.cache
+C:\Users\nieme\Documents\CodingDojo\CSharpStack2022\11.2\classesdemo\obj\Debug\netcoreapp3.1\classesdemo.AssemblyInfo.cs
+C:\Users\nieme\Documents\CodingDojo\CSharpStack2022\11.2\classesdemo\obj\Debug\netcoreapp3.1\classesdemo.csproj.CoreCompileInputs.cache
+C:\Users\nieme\Documents\CodingDojo\CSharpStack2022\11.2\classesdemo\bin\Debug\netcoreapp3.1\classesdemo.exe
+C:\Users\nieme\Documents\CodingDojo\CSharpStack2022\11.2\classesdemo\bin\Debug\netcoreapp3.1\classesdemo.deps.json
+C:\Users\nieme\Documents\CodingDojo\CSharpStack2022\11.2\classesdemo\bin\Debug\netcoreapp3.1\classesdemo.runtimeconfig.json
+C:\Users\nieme\Documents\CodingDojo\CSharpStack2022\11.2\classesdemo\bin\Debug\netcoreapp3.1\classesdemo.runtimeconfig.dev.json
+C:\Users\nieme\Documents\CodingDojo\CSharpStack2022\11.2\classesdemo\bin\Debug\netcoreapp3.1\classesdemo.dll
+C:\Users\nieme\Documents\CodingDojo\CSharpStack2022\11.2\classesdemo\bin\Debug\netcoreapp3.1\classesdemo.pdb
+C:\Users\nieme\Documents\CodingDojo\CSharpStack2022\11.2\classesdemo\obj\Debug\netcoreapp3.1\classesdemo.dll
+C:\Users\nieme\Documents\CodingDojo\CSharpStack2022\11.2\classesdemo\obj\Debug\netcoreapp3.1\classesdemo.pdb
+C:\Users\nieme\Documents\CodingDojo\CSharpStack2022\11.2\classesdemo\obj\Debug\netcoreapp3.1\classesdemo.genruntimeconfig.cache
