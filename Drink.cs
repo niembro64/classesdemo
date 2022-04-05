@@ -9,7 +9,8 @@ namespace classesdemo
     public string color;
     public bool isCarbonated;
     public double temperature;
-    public int calories;
+    public int Calories { get { return calories; } }
+    private int calories;
 
     public Drink(string n, string c, bool isC, double t, int cal)
     {
@@ -27,6 +28,15 @@ namespace classesdemo
       isCarbonated = true;
       temperature = t;
       calories = cal;
+    }
+
+    public void addSugar(int amount)
+    {
+      this.calories += amount;
+    }
+    public double getCalories()
+    {
+      return calories;
     }
 
   }
